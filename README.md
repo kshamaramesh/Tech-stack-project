@@ -1,2 +1,2 @@
 # Tech-stack-project
- Tech stack with PostgreSQL, DB, Airflow and Redash
+ Tech stack with PostgreSQL, Airflow 
